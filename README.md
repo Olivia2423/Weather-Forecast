@@ -9,8 +9,8 @@ cd weather-country-api
 npm install
 
 ### Add your OpenWeatherMap API key:
-Go to OpenWeatherMap and sign up to get an API key.
-Once you have your API key, replace the apiKey in the source code with your personal API key.
+- Go to OpenWeatherMap and sign up to get an API key.
+- Once you have your API key, replace the apiKey in the source code with your personal API key.
 
 ### Start the App
 npm start
